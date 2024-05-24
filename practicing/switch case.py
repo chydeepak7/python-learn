@@ -12,3 +12,5 @@ try:
     print(f"{a[b]}")
 except:
     print('enter a valid number')
+
+print(a.get(3))
