@@ -7,3 +7,5 @@ for x in zip(a,b):
 for x,y in zip(a,b):
     print(x,y)
 
+c = list(zip(a,b))
+print(c)
