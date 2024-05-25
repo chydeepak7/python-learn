@@ -8,3 +8,5 @@ test = test.strip()
 print(test)
 dict_compre = {x+1:y for x,y in enumerate(test.split())}
 print(dict_compre)
+print(''.join(test.split()))
+print(' '.join(test.split()))
