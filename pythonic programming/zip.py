@@ -6,3 +6,4 @@ for x in zip(a,b):
     print(*x)
 for x,y in zip(a,b):
     print(x,y)
+
