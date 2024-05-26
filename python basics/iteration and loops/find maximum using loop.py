@@ -4,4 +4,3 @@ for i in a:
     if i > maximum:
         maximum = i
 print(maximum)
-    
