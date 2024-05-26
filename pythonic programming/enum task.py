@@ -1,4 +1,4 @@
-import enum
+import enum_testing
 import random
 class Seasons(enum.Enum):
     Spring = enum.auto()
