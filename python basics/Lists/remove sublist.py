@@ -5,3 +5,7 @@ for i in b:
 print(a)
 a.pop(0) #it pops with index
 print(a)
+a.pop(2)
+print(a)
+a.remove(6)
+print(a)
