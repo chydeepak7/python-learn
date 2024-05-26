@@ -1,4 +1,4 @@
-import enum_testing
+import enum
 class Contsat(enum.Enum):
     Pi = 3.14
     OK = enum.auto() # .auto() increments the value by 1
